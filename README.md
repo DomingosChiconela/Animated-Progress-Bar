@@ -1,4 +1,4 @@
-# Progress Bar React App
+# Animated-Progress-Bar
 
 Este é um pequeno projeto de uma barra de progresso animada utilizando React, com botões de **Play** e **Pause**. A barra permite que o usuário defina os valores de início e fim, e controla o progresso a partir dos valores definidos.
 
