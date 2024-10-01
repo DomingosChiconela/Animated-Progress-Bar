@@ -28,3 +28,19 @@ Este é um pequeno projeto de uma barra de progresso animada utilizando React, c
 
    ```bash
    git clone git@github.com:DomingosChiconela/Animated-Progress-Bar.git
+   ```
+2.acesse o projecto que a caba de clonar com o comando:
+   ```bash
+   cd Animated-Progress-Bar
+   ```
+
+   
+3.Instale as dependências
+ ```bash
+    npm install 
+ ```
+    
+
+4.Para rodar a aplicação,use:
+   ```bash
+   npm run dev
